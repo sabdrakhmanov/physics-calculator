@@ -1,6 +1,3 @@
-# Physics Calculator
-# Simple Python application for physics calculations
-
 def calculate_velocity(distance, time):
     """Calculate velocity: v = d/t"""
     return distance / time
